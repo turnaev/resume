@@ -68,4 +68,4 @@ Subversion, git, docker, composer, CI Jenkins, selenium, jira, bugzilla etc.
 
 Дата составления резюме: 30.11.2015г.
 
-[word version](doc/resume.doc)
+[word version](word/resume.doc)
