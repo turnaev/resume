@@ -27,7 +27,7 @@ ZCE PHP5 11.2008г.
 Русский родной. Английский чтение технической документации.
 
 ####Опыт работы:
-**09.2012г. – по настоящее время:** 3 года 1 мес. Laximo.ru.
+**09.2012г. – по настоящее время:** 7 года 2 мес. prodv.net (laximo.ru).
 Должность: ведущий программист.
 Обязанности: анализ требований, проектирование, разработка и тестирование ПО, bug-fixing, установка и настройка ПО, 
 разработка серверного ПО для автоматизации в сфере торговли, логистики и рынка автозапчастей. 
@@ -81,15 +81,15 @@ freelance web-developer.
 ####Навыки:
 OS: WIN*, MAC OS, *nix.
 
-PHP5, JavaScript, bash/sh, SQL, PL/SQL, HTML, twig, CSS/less, XML/XSL, JSON/Schema.
+php5+, php7+, Kotlin, Lua, JavaScript, TypeScript, SQL, PL/SQL.
 
-ZF2, Yii, SF2, jquery, bootstrap2/3, phpunit.
+ZF2, Yii, Symfony+, Angular, jquery, bootstrap2/3, phpunit.
 
 Doctrine2, DAO Yii, Propel.
 
-LAMP/LEMP, MySQL, Postgre, Oracle, Redis, MongoDB, memcached.
+LAMP/LEMP, MySQL, Postgres, Oracle, Redis, MongoDB, Memcached, Tarantool.
 
-RabbitMQ, WebSocket, REST/SOAP, supervisor.
+RabbitMQ, WebSocket, REST/SOAP, supervisor, nginx/openresty.
 
 Subversion, git, docker, composer, CI Jenkins, selenium, jira, bugzilla etc.
 
@@ -105,4 +105,4 @@ Subversion, git, docker, composer, CI Jenkins, selenium, jira, bugzilla etc.
 Примеры кода https://github.com/turnaev
 
 
-Дата составления резюме: 30.11.2015г.
+Дата составления резюме: 30.11.2015г (26.11.2019г).
